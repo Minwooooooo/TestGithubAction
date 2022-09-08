@@ -26,4 +26,9 @@ public class LottoController {
     public ResponseDto<?> testLotto() {
         return lottoService.runLotto();
     }
+
+    @RequestMapping(value = "test",method = RequestMethod.GET)
+    public int testnum(){
+        return 1;
+    }
 }
