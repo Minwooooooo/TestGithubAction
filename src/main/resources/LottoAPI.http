@@ -17,3 +17,8 @@ Content-Type: application/json
 GET http://localhost:8080/api/game/lottotest
 accept: */*
 Content-Type: application/json
+
+### lottoRun
+GET http://54.180.160.9:8080/api/game/lottotest
+accept: */*
+Content-Type: application/json
