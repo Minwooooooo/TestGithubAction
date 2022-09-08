@@ -168,7 +168,7 @@ gradle-app.setting
 *.hprof
 
 ### Custom ###
-ignore.properties
+application-ignore.properties
 
 
 # End of https://www.toptal.com/developers/gitignore/api/java,intellij,gradle
