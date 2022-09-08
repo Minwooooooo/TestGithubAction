@@ -1,0 +1,19 @@
+### lottoBuy
+POST http://localhost:8080/api/game/lotto
+accept: */*
+Content-Type: application/json
+
+{
+  "num1":1,
+  "num2":2,
+  "num3":3,
+  "num4":4,
+  "num5":5,
+  "num6":6
+}
+
+
+### lottoRun
+GET http://localhost:8080/api/game/lottotest
+accept: */*
+Content-Type: application/json
