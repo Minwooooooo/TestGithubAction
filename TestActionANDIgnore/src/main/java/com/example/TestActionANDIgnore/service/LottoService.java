@@ -20,7 +20,6 @@ import java.util.Random;
 
 @Service
 @RequiredArgsConstructor
-@PropertySource("classpath:ignore.properties")
 public class LottoService {
 
     /*
