@@ -10,7 +10,6 @@ import com.example.TestActionANDIgnore.repo.LottoRepository;
 import com.example.TestActionANDIgnore.repo.LottoServerRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.PropertySource;
 import org.springframework.stereotype.Service;
 import org.springframework.transaction.annotation.Transactional;
 
